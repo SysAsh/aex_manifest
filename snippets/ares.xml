@@ -14,5 +14,6 @@
   <project path="frameworks/opt/net/ims" name="ares_frameworks_opt_net_ims" remote="ares" />
   <project path="frameworks/opt/telephony" name="ares_frameworks_opt_telephony" remote="ares" />
   <project path="packages/modules/Wifi" name="ares_packages_modules_Wifi" remote="ares" />
+  <project path="packages/apps/Settings" name="ares_packages_apps_Settings" groups="pdk-fs" remote="ares" />
   <project path="vendor/aosp" name="ares_vendor_aosp" remote="ares" />
 </manifest>
